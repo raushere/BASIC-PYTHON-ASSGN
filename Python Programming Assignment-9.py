@@ -37,7 +37,7 @@ def printDisariumNumbers(start=0,end=100):
     return output_num
             
         
-printDisariumNumbers(1,1000)
+printDisariumNumbers(1,100)
 
 
 # In[72]:
